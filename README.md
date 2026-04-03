@@ -1,7 +1,7 @@
 # 🖥️ Produtos Frontend
 
 Interface web desenvolvida em **React** para gerenciamento de produtos,  
-consumindo a [Produtos API](https://github.com/seu-usuario/produtos-api) via requisições HTTP.
+consumindo a [Produtos API](https://github.com/luisFernandoJv/produtos-api) via requisições HTTP.
 
 ---
 
